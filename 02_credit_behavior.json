@@ -1,0 +1,7002 @@
+[
+  {
+    "customer_id": "CR00001",
+    "loan_purpose": "Business",
+    "credit_score": 708.1,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00002",
+    "loan_purpose": "Car",
+    "credit_score": 636.9,
+    "repayment_history": 3,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00003",
+    "loan_purpose": "Home",
+    "credit_score": 651.7,
+    "repayment_history": 2,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00004",
+    "loan_purpose": "Car",
+    "credit_score": 664.4,
+    "repayment_history": 3,
+    "transaction_count": 25
+  },
+  {
+    "customer_id": "CR00005",
+    "loan_purpose": "Other",
+    "credit_score": 611.2,
+    "repayment_history": 0,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00006",
+    "loan_purpose": "Business",
+    "credit_score": 633.9,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00007",
+    "loan_purpose": "Education",
+    "credit_score": 663.5,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00008",
+    "loan_purpose": "Other",
+    "credit_score": 827.6,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00009",
+    "loan_purpose": "Business",
+    "credit_score": 607.1,
+    "repayment_history": 8,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00010",
+    "loan_purpose": "Home",
+    "credit_score": 747.3,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00011",
+    "loan_purpose": "Car",
+    "credit_score": 725.3,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00012",
+    "loan_purpose": "Home",
+    "credit_score": 722.6,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00013",
+    "loan_purpose": "Home",
+    "credit_score": 615.3,
+    "repayment_history": 3,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00014",
+    "loan_purpose": "Home",
+    "credit_score": 549.6,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00015",
+    "loan_purpose": "Home",
+    "credit_score": 749.9,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00016",
+    "loan_purpose": "Business",
+    "credit_score": 736.3,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00017",
+    "loan_purpose": "Car",
+    "credit_score": 545.7,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00018",
+    "loan_purpose": "Education",
+    "credit_score": 629.7,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00019",
+    "loan_purpose": "Car",
+    "credit_score": 608.0,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00020",
+    "loan_purpose": "Business",
+    "credit_score": 607.9,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00021",
+    "loan_purpose": "Home",
+    "credit_score": 778.0,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00022",
+    "loan_purpose": "Business",
+    "credit_score": 699.3,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00023",
+    "loan_purpose": "Other",
+    "credit_score": 769.5,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00024",
+    "loan_purpose": "Business",
+    "credit_score": 708.8,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00025",
+    "loan_purpose": "Business",
+    "credit_score": 644.7,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00026",
+    "loan_purpose": "Business",
+    "credit_score": 614.9,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00027",
+    "loan_purpose": "Car",
+    "credit_score": 702.0,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00028",
+    "loan_purpose": "Education",
+    "credit_score": 664.2,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00029",
+    "loan_purpose": "Home",
+    "credit_score": 731.3,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00030",
+    "loan_purpose": "Other",
+    "credit_score": 688.5,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00031",
+    "loan_purpose": "Home",
+    "credit_score": 626.5,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00032",
+    "loan_purpose": "Education",
+    "credit_score": 739.2,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00033",
+    "loan_purpose": "Business",
+    "credit_score": 646.4,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00034",
+    "loan_purpose": "Education",
+    "credit_score": 681.9,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00035",
+    "loan_purpose": "Home",
+    "credit_score": 730.3,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00036",
+    "loan_purpose": "Other",
+    "credit_score": 681.2,
+    "repayment_history": 0,
+    "transaction_count": 186
+  },
+  {
+    "customer_id": "CR00037",
+    "loan_purpose": "Business",
+    "credit_score": 733.3,
+    "repayment_history": 3,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00038",
+    "loan_purpose": "Business",
+    "credit_score": 800.3,
+    "repayment_history": 1,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00039",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00040",
+    "loan_purpose": "Business",
+    "credit_score": 714.4,
+    "repayment_history": 2,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00041",
+    "loan_purpose": "Other",
+    "credit_score": 621.9,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00042",
+    "loan_purpose": "Home",
+    "credit_score": 636.5,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00043",
+    "loan_purpose": "Car",
+    "credit_score": 678.1,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00044",
+    "loan_purpose": "Home",
+    "credit_score": 771.3,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00045",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00046",
+    "loan_purpose": "Home",
+    "credit_score": 634.6,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00047",
+    "loan_purpose": "Car",
+    "credit_score": 668.6,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00048",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00049",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 3,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00050",
+    "loan_purpose": "Business",
+    "credit_score": 613.2,
+    "repayment_history": 0,
+    "transaction_count": 28
+  },
+  {
+    "customer_id": "CR00051",
+    "loan_purpose": "Other",
+    "credit_score": 634.1,
+    "repayment_history": 3,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00052",
+    "loan_purpose": "Education",
+    "credit_score": 671.8,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00053",
+    "loan_purpose": "Car",
+    "credit_score": 698.3,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00054",
+    "loan_purpose": "Education",
+    "credit_score": 691.0,
+    "repayment_history": 2,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00055",
+    "loan_purpose": "Business",
+    "credit_score": 640.0,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00056",
+    "loan_purpose": "Education",
+    "credit_score": 755.0,
+    "repayment_history": 4,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00057",
+    "loan_purpose": "Car",
+    "credit_score": 629.0,
+    "repayment_history": 10,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00058",
+    "loan_purpose": "Home",
+    "credit_score": 595.9,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00059",
+    "loan_purpose": "Home",
+    "credit_score": 649.9,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00060",
+    "loan_purpose": "Home",
+    "credit_score": 757.5,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00061",
+    "loan_purpose": "Other",
+    "credit_score": 638.6,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00062",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00063",
+    "loan_purpose": "Other",
+    "credit_score": 587.2,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00064",
+    "loan_purpose": "Business",
+    "credit_score": 664.6,
+    "repayment_history": 2,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00065",
+    "loan_purpose": "Business",
+    "credit_score": 625.8,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00066",
+    "loan_purpose": "Car",
+    "credit_score": 687.4,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00067",
+    "loan_purpose": "Car",
+    "credit_score": 638.1,
+    "repayment_history": 3,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00068",
+    "loan_purpose": "Other",
+    "credit_score": 654.1,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00069",
+    "loan_purpose": "Business",
+    "credit_score": 656.8,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00070",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00071",
+    "loan_purpose": "Business",
+    "credit_score": 549.5,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00072",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 3,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00073",
+    "loan_purpose": "Home",
+    "credit_score": 668.0,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00074",
+    "loan_purpose": "Education",
+    "credit_score": 689.2,
+    "repayment_history": 1,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00075",
+    "loan_purpose": "Education",
+    "credit_score": 691.2,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00076",
+    "loan_purpose": "Business",
+    "credit_score": 566.7,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00077",
+    "loan_purpose": "Home",
+    "credit_score": 736.2,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00078",
+    "loan_purpose": "Business",
+    "credit_score": 712.0,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00079",
+    "loan_purpose": "Business",
+    "credit_score": 689.4,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00080",
+    "loan_purpose": "Education",
+    "credit_score": 673.8,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00081",
+    "loan_purpose": "Other",
+    "credit_score": 659.9,
+    "repayment_history": 0,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00082",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00083",
+    "loan_purpose": "Other",
+    "credit_score": 632.7,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00084",
+    "loan_purpose": "Home",
+    "credit_score": 633.7,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00085",
+    "loan_purpose": "Home",
+    "credit_score": 662.2,
+    "repayment_history": 2,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00086",
+    "loan_purpose": "Home",
+    "credit_score": 729.7,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00087",
+    "loan_purpose": "Home",
+    "credit_score": 666.9,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00088",
+    "loan_purpose": "Business",
+    "credit_score": 666.6,
+    "repayment_history": 2,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00089",
+    "loan_purpose": "Business",
+    "credit_score": 752.7,
+    "repayment_history": 1,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00090",
+    "loan_purpose": "Education",
+    "credit_score": 777.8,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00091",
+    "loan_purpose": "Home",
+    "credit_score": 691.1,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00092",
+    "loan_purpose": "Business",
+    "credit_score": 795.7,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00093",
+    "loan_purpose": "Car",
+    "credit_score": 624.1,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00094",
+    "loan_purpose": "Home",
+    "credit_score": 692.0,
+    "repayment_history": 5,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00095",
+    "loan_purpose": "Business",
+    "credit_score": 724.0,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00096",
+    "loan_purpose": "Education",
+    "credit_score": 778.7,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00097",
+    "loan_purpose": "Home",
+    "credit_score": 699.6,
+    "repayment_history": 12,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00098",
+    "loan_purpose": "Car",
+    "credit_score": 628.3,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00099",
+    "loan_purpose": "Education",
+    "credit_score": 612.8,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00100",
+    "loan_purpose": "Car",
+    "credit_score": 601.8,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00101",
+    "loan_purpose": "Education",
+    "credit_score": 701.6,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00102",
+    "loan_purpose": "Other",
+    "credit_score": 697.5,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00103",
+    "loan_purpose": "Business",
+    "credit_score": 688.4,
+    "repayment_history": 4,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00104",
+    "loan_purpose": "Other",
+    "credit_score": 654.9,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00105",
+    "loan_purpose": "Business",
+    "credit_score": 625.8,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00106",
+    "loan_purpose": "Other",
+    "credit_score": 687.7,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00107",
+    "loan_purpose": "Car",
+    "credit_score": 670.1,
+    "repayment_history": 0,
+    "transaction_count": 58
+  },
+  {
+    "customer_id": "CR00108",
+    "loan_purpose": "Home",
+    "credit_score": 690.8,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00109",
+    "loan_purpose": "Business",
+    "credit_score": 728.8,
+    "repayment_history": 5,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00110",
+    "loan_purpose": "Education",
+    "credit_score": 716.8,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00111",
+    "loan_purpose": "Business",
+    "credit_score": 693.2,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00112",
+    "loan_purpose": "Business",
+    "credit_score": 764.8,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00113",
+    "loan_purpose": "Home",
+    "credit_score": 659.0,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00114",
+    "loan_purpose": "Home",
+    "credit_score": 608.8,
+    "repayment_history": 4,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00115",
+    "loan_purpose": "Home",
+    "credit_score": 616.9,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00116",
+    "loan_purpose": "Car",
+    "credit_score": 705.1,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00117",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00118",
+    "loan_purpose": "Car",
+    "credit_score": 734.8,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00119",
+    "loan_purpose": "Car",
+    "credit_score": 679.7,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00120",
+    "loan_purpose": "Car",
+    "credit_score": 575.7,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00121",
+    "loan_purpose": "Car",
+    "credit_score": 655.1,
+    "repayment_history": 2,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00122",
+    "loan_purpose": "Car",
+    "credit_score": 695.8,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00123",
+    "loan_purpose": "Other",
+    "credit_score": 724.8,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00124",
+    "loan_purpose": "Home",
+    "credit_score": 696.9,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00125",
+    "loan_purpose": "Other",
+    "credit_score": 692.8,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00126",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 3,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00127",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00128",
+    "loan_purpose": "Car",
+    "credit_score": 775.2,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00129",
+    "loan_purpose": "Business",
+    "credit_score": 646.0,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00130",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00131",
+    "loan_purpose": "Education",
+    "credit_score": 595.9,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00132",
+    "loan_purpose": "Home",
+    "credit_score": 707.9,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00133",
+    "loan_purpose": "Home",
+    "credit_score": 595.8,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00134",
+    "loan_purpose": "Business",
+    "credit_score": 655.3,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00135",
+    "loan_purpose": "Home",
+    "credit_score": 732.7,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00136",
+    "loan_purpose": "Car",
+    "credit_score": 712.0,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00137",
+    "loan_purpose": "Education",
+    "credit_score": 717.3,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00138",
+    "loan_purpose": "Business",
+    "credit_score": 625.0,
+    "repayment_history": 3,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00139",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00140",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00141",
+    "loan_purpose": "Other",
+    "credit_score": 720.8,
+    "repayment_history": 4,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00142",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00143",
+    "loan_purpose": "Other",
+    "credit_score": 704.8,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00144",
+    "loan_purpose": "Education",
+    "credit_score": 729.3,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00145",
+    "loan_purpose": "Home",
+    "credit_score": 596.3,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00146",
+    "loan_purpose": "Business",
+    "credit_score": 604.3,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00147",
+    "loan_purpose": "Home",
+    "credit_score": 658.7,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00148",
+    "loan_purpose": "Home",
+    "credit_score": 641.8,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00149",
+    "loan_purpose": "Car",
+    "credit_score": 705.2,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00150",
+    "loan_purpose": "Other",
+    "credit_score": 503.2,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00151",
+    "loan_purpose": "Other",
+    "credit_score": 730.3,
+    "repayment_history": 3,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00152",
+    "loan_purpose": "Education",
+    "credit_score": 617.3,
+    "repayment_history": 10,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00153",
+    "loan_purpose": "Business",
+    "credit_score": 620.7,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00154",
+    "loan_purpose": "Business",
+    "credit_score": 697.4,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00155",
+    "loan_purpose": "Car",
+    "credit_score": 616.8,
+    "repayment_history": 3,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00156",
+    "loan_purpose": "Education",
+    "credit_score": 725.9,
+    "repayment_history": 3,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00157",
+    "loan_purpose": "Car",
+    "credit_score": 729.1,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00158",
+    "loan_purpose": "Home",
+    "credit_score": 688.9,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00159",
+    "loan_purpose": "Other",
+    "credit_score": 727.9,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00160",
+    "loan_purpose": "Other",
+    "credit_score": 623.3,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00161",
+    "loan_purpose": "Home",
+    "credit_score": 712.1,
+    "repayment_history": 0,
+    "transaction_count": 189
+  },
+  {
+    "customer_id": "CR00162",
+    "loan_purpose": "Business",
+    "credit_score": 688.5,
+    "repayment_history": 11,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00163",
+    "loan_purpose": "Car",
+    "credit_score": 701.4,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00164",
+    "loan_purpose": "Car",
+    "credit_score": 681.7,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00165",
+    "loan_purpose": "Home",
+    "credit_score": 634.3,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00166",
+    "loan_purpose": "Home",
+    "credit_score": 639.4,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00167",
+    "loan_purpose": "Education",
+    "credit_score": 744.4,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00168",
+    "loan_purpose": "Business",
+    "credit_score": 683.0,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00169",
+    "loan_purpose": "Education",
+    "credit_score": 603.5,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00170",
+    "loan_purpose": "Other",
+    "credit_score": 607.9,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00171",
+    "loan_purpose": "Home",
+    "credit_score": 709.4,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00172",
+    "loan_purpose": "Other",
+    "credit_score": 716.0,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00173",
+    "loan_purpose": "Education",
+    "credit_score": 651.1,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00174",
+    "loan_purpose": "Other",
+    "credit_score": 705.9,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00175",
+    "loan_purpose": "Car",
+    "credit_score": 617.4,
+    "repayment_history": 3,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00176",
+    "loan_purpose": "Home",
+    "credit_score": 760.9,
+    "repayment_history": 3,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00177",
+    "loan_purpose": "Other",
+    "credit_score": 694.0,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00178",
+    "loan_purpose": "Car",
+    "credit_score": 660.2,
+    "repayment_history": 1,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00179",
+    "loan_purpose": "Car",
+    "credit_score": 711.2,
+    "repayment_history": 0,
+    "transaction_count": 167
+  },
+  {
+    "customer_id": "CR00180",
+    "loan_purpose": "Car",
+    "credit_score": 668.2,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00181",
+    "loan_purpose": "Home",
+    "credit_score": 753.5,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00182",
+    "loan_purpose": "Other",
+    "credit_score": 610.0,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00183",
+    "loan_purpose": "Education",
+    "credit_score": 720.7,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00184",
+    "loan_purpose": "Home",
+    "credit_score": 729.4,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00185",
+    "loan_purpose": "Home",
+    "credit_score": 671.2,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00186",
+    "loan_purpose": "Home",
+    "credit_score": 800.3,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00187",
+    "loan_purpose": "Car",
+    "credit_score": 620.5,
+    "repayment_history": 3,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00188",
+    "loan_purpose": "Business",
+    "credit_score": 805.4,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00189",
+    "loan_purpose": "Home",
+    "credit_score": 832.4,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00190",
+    "loan_purpose": "Car",
+    "credit_score": 677.0,
+    "repayment_history": 4,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00191",
+    "loan_purpose": "Other",
+    "credit_score": 694.2,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00192",
+    "loan_purpose": "Home",
+    "credit_score": 603.6,
+    "repayment_history": 2,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00193",
+    "loan_purpose": "Business",
+    "credit_score": 713.8,
+    "repayment_history": 0,
+    "transaction_count": 62
+  },
+  {
+    "customer_id": "CR00194",
+    "loan_purpose": "Business",
+    "credit_score": 652.8,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00195",
+    "loan_purpose": "Home",
+    "credit_score": 556.7,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00196",
+    "loan_purpose": "Education",
+    "credit_score": 689.3,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00197",
+    "loan_purpose": "Business",
+    "credit_score": 697.4,
+    "repayment_history": 3,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00198",
+    "loan_purpose": "Home",
+    "credit_score": 635.7,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00199",
+    "loan_purpose": "Business",
+    "credit_score": 727.2,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00200",
+    "loan_purpose": "Other",
+    "credit_score": 674.6,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00201",
+    "loan_purpose": "Home",
+    "credit_score": 542.4,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00202",
+    "loan_purpose": "Other",
+    "credit_score": 670.7,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00203",
+    "loan_purpose": "Home",
+    "credit_score": 746.5,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00204",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00205",
+    "loan_purpose": "Business",
+    "credit_score": 645.4,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00206",
+    "loan_purpose": "Education",
+    "credit_score": 674.3,
+    "repayment_history": 0,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00207",
+    "loan_purpose": "Business",
+    "credit_score": 651.7,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00208",
+    "loan_purpose": "Other",
+    "credit_score": 611.7,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00209",
+    "loan_purpose": "Home",
+    "credit_score": 638.5,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00210",
+    "loan_purpose": "Business",
+    "credit_score": 666.8,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00211",
+    "loan_purpose": "Business",
+    "credit_score": 696.6,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00212",
+    "loan_purpose": "Car",
+    "credit_score": 709.7,
+    "repayment_history": 0,
+    "transaction_count": 56
+  },
+  {
+    "customer_id": "CR00213",
+    "loan_purpose": "Business",
+    "credit_score": 649.3,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00214",
+    "loan_purpose": "Car",
+    "credit_score": 654.2,
+    "repayment_history": 9,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00215",
+    "loan_purpose": "Other",
+    "credit_score": 668.1,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00216",
+    "loan_purpose": "Education",
+    "credit_score": 822.6,
+    "repayment_history": 3,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00217",
+    "loan_purpose": "Business",
+    "credit_score": 788.0,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00218",
+    "loan_purpose": "Education",
+    "credit_score": 767.8,
+    "repayment_history": 2,
+    "transaction_count": 188
+  },
+  {
+    "customer_id": "CR00219",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00220",
+    "loan_purpose": "Business",
+    "credit_score": 733.4,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00221",
+    "loan_purpose": "Home",
+    "credit_score": 774.3,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00222",
+    "loan_purpose": "Car",
+    "credit_score": 706.9,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00223",
+    "loan_purpose": "Home",
+    "credit_score": 610.0,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00224",
+    "loan_purpose": "Home",
+    "credit_score": 718.0,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00225",
+    "loan_purpose": "Home",
+    "credit_score": 675.9,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00226",
+    "loan_purpose": "Car",
+    "credit_score": 760.6,
+    "repayment_history": 3,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00227",
+    "loan_purpose": "Car",
+    "credit_score": 693.3,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00228",
+    "loan_purpose": "Car",
+    "credit_score": 665.3,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00229",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00230",
+    "loan_purpose": "Car",
+    "credit_score": 639.6,
+    "repayment_history": 3,
+    "transaction_count": 27
+  },
+  {
+    "customer_id": "CR00231",
+    "loan_purpose": "Education",
+    "credit_score": 655.7,
+    "repayment_history": 0,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00232",
+    "loan_purpose": "Car",
+    "credit_score": 678.1,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00233",
+    "loan_purpose": "Other",
+    "credit_score": 746.3,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00234",
+    "loan_purpose": "Education",
+    "credit_score": 593.7,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00235",
+    "loan_purpose": "Business",
+    "credit_score": 723.7,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00236",
+    "loan_purpose": "Home",
+    "credit_score": 760.1,
+    "repayment_history": 0,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00237",
+    "loan_purpose": "Home",
+    "credit_score": 605.5,
+    "repayment_history": 2,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00238",
+    "loan_purpose": "Home",
+    "credit_score": 715.7,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00239",
+    "loan_purpose": "Home",
+    "credit_score": 742.2,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00240",
+    "loan_purpose": "Home",
+    "credit_score": 608.2,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00241",
+    "loan_purpose": "Car",
+    "credit_score": 677.0,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00242",
+    "loan_purpose": "Home",
+    "credit_score": 744.4,
+    "repayment_history": 3,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00243",
+    "loan_purpose": "Home",
+    "credit_score": 672.2,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00244",
+    "loan_purpose": "Car",
+    "credit_score": 707.6,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00245",
+    "loan_purpose": "Home",
+    "credit_score": 662.2,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00246",
+    "loan_purpose": "Car",
+    "credit_score": 690.3,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00247",
+    "loan_purpose": "Other",
+    "credit_score": 676.2,
+    "repayment_history": 4,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00248",
+    "loan_purpose": "Business",
+    "credit_score": 731.9,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00249",
+    "loan_purpose": "Other",
+    "credit_score": 757.9,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00250",
+    "loan_purpose": "Business",
+    "credit_score": 597.5,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00251",
+    "loan_purpose": "Education",
+    "credit_score": 652.0,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00252",
+    "loan_purpose": "Other",
+    "credit_score": 670.2,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00253",
+    "loan_purpose": "Education",
+    "credit_score": 779.8,
+    "repayment_history": 2,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00254",
+    "loan_purpose": "Car",
+    "credit_score": 693.6,
+    "repayment_history": 2,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00255",
+    "loan_purpose": "Education",
+    "credit_score": 756.3,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00256",
+    "loan_purpose": "Other",
+    "credit_score": 700.0,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00257",
+    "loan_purpose": "Home",
+    "credit_score": 690.3,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00258",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00259",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 3,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00260",
+    "loan_purpose": "Car",
+    "credit_score": 638.4,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00261",
+    "loan_purpose": "Car",
+    "credit_score": 735.9,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00262",
+    "loan_purpose": "Home",
+    "credit_score": 788.1,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00263",
+    "loan_purpose": "Car",
+    "credit_score": 612.8,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00264",
+    "loan_purpose": "Other",
+    "credit_score": 652.4,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00265",
+    "loan_purpose": "Home",
+    "credit_score": 665.9,
+    "repayment_history": 3,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00266",
+    "loan_purpose": "Business",
+    "credit_score": 694.7,
+    "repayment_history": 4,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00267",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00268",
+    "loan_purpose": "Education",
+    "credit_score": 642.3,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00269",
+    "loan_purpose": "Business",
+    "credit_score": 673.7,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00270",
+    "loan_purpose": "Car",
+    "credit_score": 706.1,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00271",
+    "loan_purpose": "Home",
+    "credit_score": 597.9,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00272",
+    "loan_purpose": "Car",
+    "credit_score": 555.8,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00273",
+    "loan_purpose": "Car",
+    "credit_score": 722.8,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00274",
+    "loan_purpose": "Home",
+    "credit_score": 719.1,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00275",
+    "loan_purpose": "Education",
+    "credit_score": 739.0,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00276",
+    "loan_purpose": "Home",
+    "credit_score": 657.8,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00277",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00278",
+    "loan_purpose": "Home",
+    "credit_score": 758.8,
+    "repayment_history": 4,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00279",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00280",
+    "loan_purpose": "Education",
+    "credit_score": 616.0,
+    "repayment_history": 4,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00281",
+    "loan_purpose": "Home",
+    "credit_score": 633.0,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00282",
+    "loan_purpose": "Other",
+    "credit_score": 732.9,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00283",
+    "loan_purpose": "Car",
+    "credit_score": 623.5,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00284",
+    "loan_purpose": "Home",
+    "credit_score": 754.2,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00285",
+    "loan_purpose": "Home",
+    "credit_score": 713.7,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00286",
+    "loan_purpose": "Other",
+    "credit_score": 772.4,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00287",
+    "loan_purpose": "Business",
+    "credit_score": 721.5,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00288",
+    "loan_purpose": "Home",
+    "credit_score": 717.9,
+    "repayment_history": 3,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00289",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00290",
+    "loan_purpose": "Education",
+    "credit_score": 751.6,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00291",
+    "loan_purpose": "Car",
+    "credit_score": 682.0,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00292",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00293",
+    "loan_purpose": "Car",
+    "credit_score": 520.6,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00294",
+    "loan_purpose": "Other",
+    "credit_score": 629.7,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00295",
+    "loan_purpose": "Home",
+    "credit_score": 667.9,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00296",
+    "loan_purpose": "Education",
+    "credit_score": 737.5,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00297",
+    "loan_purpose": "Other",
+    "credit_score": 599.9,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00298",
+    "loan_purpose": "Car",
+    "credit_score": 646.2,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00299",
+    "loan_purpose": "Home",
+    "credit_score": 773.7,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00300",
+    "loan_purpose": "Business",
+    "credit_score": 737.0,
+    "repayment_history": 3,
+    "transaction_count": 58
+  },
+  {
+    "customer_id": "CR00301",
+    "loan_purpose": "Education",
+    "credit_score": 598.7,
+    "repayment_history": 0,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00302",
+    "loan_purpose": "Business",
+    "credit_score": 729.2,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00303",
+    "loan_purpose": "Business",
+    "credit_score": 625.5,
+    "repayment_history": 2,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00304",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00305",
+    "loan_purpose": "Education",
+    "credit_score": 734.7,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00306",
+    "loan_purpose": "Car",
+    "credit_score": 673.9,
+    "repayment_history": 2,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00307",
+    "loan_purpose": "Business",
+    "credit_score": 606.1,
+    "repayment_history": 3,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00308",
+    "loan_purpose": "Car",
+    "credit_score": 619.4,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00309",
+    "loan_purpose": "Other",
+    "credit_score": 667.3,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00310",
+    "loan_purpose": "Business",
+    "credit_score": 528.8,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00311",
+    "loan_purpose": "Home",
+    "credit_score": 693.6,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00312",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00313",
+    "loan_purpose": "Business",
+    "credit_score": 678.9,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00314",
+    "loan_purpose": "Home",
+    "credit_score": 735.7,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00315",
+    "loan_purpose": "Education",
+    "credit_score": 573.0,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00316",
+    "loan_purpose": "Car",
+    "credit_score": 732.0,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00317",
+    "loan_purpose": "Home",
+    "credit_score": 662.6,
+    "repayment_history": 2,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00318",
+    "loan_purpose": "Home",
+    "credit_score": 572.6,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00319",
+    "loan_purpose": "Other",
+    "credit_score": 571.5,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00320",
+    "loan_purpose": "Car",
+    "credit_score": 720.7,
+    "repayment_history": 3,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00321",
+    "loan_purpose": "Business",
+    "credit_score": 733.8,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00322",
+    "loan_purpose": "Home",
+    "credit_score": 671.5,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00323",
+    "loan_purpose": "Other",
+    "credit_score": 569.4,
+    "repayment_history": 0,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00324",
+    "loan_purpose": "Home",
+    "credit_score": 632.5,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00325",
+    "loan_purpose": "Home",
+    "credit_score": 850.0,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00326",
+    "loan_purpose": "Business",
+    "credit_score": 655.4,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00327",
+    "loan_purpose": "Home",
+    "credit_score": 742.6,
+    "repayment_history": 3,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00328",
+    "loan_purpose": "Education",
+    "credit_score": 592.2,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00329",
+    "loan_purpose": "Home",
+    "credit_score": 681.9,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00330",
+    "loan_purpose": "Business",
+    "credit_score": 640.4,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00331",
+    "loan_purpose": "Business",
+    "credit_score": 660.7,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00332",
+    "loan_purpose": "Other",
+    "credit_score": 631.4,
+    "repayment_history": 2,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00333",
+    "loan_purpose": "Business",
+    "credit_score": 732.9,
+    "repayment_history": 1,
+    "transaction_count": 29
+  },
+  {
+    "customer_id": "CR00334",
+    "loan_purpose": "Car",
+    "credit_score": 611.7,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00335",
+    "loan_purpose": "Home",
+    "credit_score": 623.4,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00336",
+    "loan_purpose": "Home",
+    "credit_score": 621.7,
+    "repayment_history": 3,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00337",
+    "loan_purpose": "Education",
+    "credit_score": 641.0,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00338",
+    "loan_purpose": "Car",
+    "credit_score": 762.6,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00339",
+    "loan_purpose": "Home",
+    "credit_score": 549.8,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00340",
+    "loan_purpose": "Home",
+    "credit_score": 696.1,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00341",
+    "loan_purpose": "Home",
+    "credit_score": 652.3,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00342",
+    "loan_purpose": "Business",
+    "credit_score": 765.1,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00343",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00344",
+    "loan_purpose": "Education",
+    "credit_score": 840.5,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00345",
+    "loan_purpose": "Education",
+    "credit_score": 757.0,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00346",
+    "loan_purpose": "Car",
+    "credit_score": 647.6,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00347",
+    "loan_purpose": "Home",
+    "credit_score": 558.1,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00348",
+    "loan_purpose": "Business",
+    "credit_score": 725.7,
+    "repayment_history": 4,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00349",
+    "loan_purpose": "Home",
+    "credit_score": 657.3,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00350",
+    "loan_purpose": "Home",
+    "credit_score": 694.8,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00351",
+    "loan_purpose": "Car",
+    "credit_score": 682.2,
+    "repayment_history": 1,
+    "transaction_count": 58
+  },
+  {
+    "customer_id": "CR00352",
+    "loan_purpose": "Car",
+    "credit_score": 744.6,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00353",
+    "loan_purpose": "Education",
+    "credit_score": 789.5,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00354",
+    "loan_purpose": "Business",
+    "credit_score": 649.0,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00355",
+    "loan_purpose": "Car",
+    "credit_score": 706.6,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00356",
+    "loan_purpose": "Other",
+    "credit_score": 616.8,
+    "repayment_history": 1,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00357",
+    "loan_purpose": "Education",
+    "credit_score": 689.7,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00358",
+    "loan_purpose": "Education",
+    "credit_score": 739.5,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00359",
+    "loan_purpose": "Education",
+    "credit_score": 669.2,
+    "repayment_history": 3,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00360",
+    "loan_purpose": "Business",
+    "credit_score": 488.3,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00361",
+    "loan_purpose": "Home",
+    "credit_score": 686.1,
+    "repayment_history": 5,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00362",
+    "loan_purpose": "Car",
+    "credit_score": 636.9,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00363",
+    "loan_purpose": "Home",
+    "credit_score": 614.1,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00364",
+    "loan_purpose": "Education",
+    "credit_score": 687.5,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00365",
+    "loan_purpose": "Home",
+    "credit_score": 538.3,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00366",
+    "loan_purpose": "Home",
+    "credit_score": 850.0,
+    "repayment_history": 2,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00367",
+    "loan_purpose": "Car",
+    "credit_score": 566.5,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00368",
+    "loan_purpose": "Education",
+    "credit_score": 721.3,
+    "repayment_history": 3,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00369",
+    "loan_purpose": "Home",
+    "credit_score": 681.2,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00370",
+    "loan_purpose": "Home",
+    "credit_score": 635.0,
+    "repayment_history": 0,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00371",
+    "loan_purpose": "Car",
+    "credit_score": 690.8,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00372",
+    "loan_purpose": "Car",
+    "credit_score": 627.9,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00373",
+    "loan_purpose": "Business",
+    "credit_score": 705.5,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00374",
+    "loan_purpose": "Business",
+    "credit_score": 808.7,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00375",
+    "loan_purpose": "Car",
+    "credit_score": 569.9,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00376",
+    "loan_purpose": "Home",
+    "credit_score": 639.0,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00377",
+    "loan_purpose": "Car",
+    "credit_score": 651.2,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00378",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00379",
+    "loan_purpose": "Car",
+    "credit_score": 676.0,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00380",
+    "loan_purpose": "Home",
+    "credit_score": 599.2,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00381",
+    "loan_purpose": "Other",
+    "credit_score": 634.4,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00382",
+    "loan_purpose": "Business",
+    "credit_score": 739.3,
+    "repayment_history": 3,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00383",
+    "loan_purpose": "Car",
+    "credit_score": 682.0,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00384",
+    "loan_purpose": "Car",
+    "credit_score": 777.7,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00385",
+    "loan_purpose": "Home",
+    "credit_score": 704.8,
+    "repayment_history": 0,
+    "transaction_count": 57
+  },
+  {
+    "customer_id": "CR00386",
+    "loan_purpose": "Other",
+    "credit_score": 674.2,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00387",
+    "loan_purpose": "Home",
+    "credit_score": 696.5,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00388",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 3,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00389",
+    "loan_purpose": "Other",
+    "credit_score": 696.2,
+    "repayment_history": 0,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00390",
+    "loan_purpose": "Business",
+    "credit_score": 680.7,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00391",
+    "loan_purpose": "Car",
+    "credit_score": 613.8,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00392",
+    "loan_purpose": "Home",
+    "credit_score": 728.2,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00393",
+    "loan_purpose": "Car",
+    "credit_score": 607.1,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00394",
+    "loan_purpose": "Business",
+    "credit_score": 599.7,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00395",
+    "loan_purpose": "Business",
+    "credit_score": 796.8,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00396",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00397",
+    "loan_purpose": "Car",
+    "credit_score": 698.9,
+    "repayment_history": 3,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00398",
+    "loan_purpose": "Business",
+    "credit_score": 743.1,
+    "repayment_history": 3,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00399",
+    "loan_purpose": "Business",
+    "credit_score": 756.7,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00400",
+    "loan_purpose": "Business",
+    "credit_score": 746.3,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00401",
+    "loan_purpose": "Home",
+    "credit_score": 689.5,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00402",
+    "loan_purpose": "Home",
+    "credit_score": 567.0,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00403",
+    "loan_purpose": "Other",
+    "credit_score": 645.9,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00404",
+    "loan_purpose": "Other",
+    "credit_score": 265.0,
+    "repayment_history": 1,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00405",
+    "loan_purpose": "Car",
+    "credit_score": 672.2,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00406",
+    "loan_purpose": "Business",
+    "credit_score": 702.8,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00407",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00408",
+    "loan_purpose": "Car",
+    "credit_score": 752.4,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00409",
+    "loan_purpose": "Business",
+    "credit_score": 634.4,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00410",
+    "loan_purpose": "Home",
+    "credit_score": 673.8,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00411",
+    "loan_purpose": "Education",
+    "credit_score": 627.8,
+    "repayment_history": 3,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00412",
+    "loan_purpose": "Home",
+    "credit_score": 670.4,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00413",
+    "loan_purpose": "Car",
+    "credit_score": 616.3,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00414",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00415",
+    "loan_purpose": "Business",
+    "credit_score": 744.4,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00416",
+    "loan_purpose": "Car",
+    "credit_score": 630.3,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00417",
+    "loan_purpose": "Home",
+    "credit_score": 647.4,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00418",
+    "loan_purpose": "Education",
+    "credit_score": 720.1,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00419",
+    "loan_purpose": "Other",
+    "credit_score": 642.5,
+    "repayment_history": 0,
+    "transaction_count": 164
+  },
+  {
+    "customer_id": "CR00420",
+    "loan_purpose": "Education",
+    "credit_score": 745.4,
+    "repayment_history": 2,
+    "transaction_count": 173
+  },
+  {
+    "customer_id": "CR00421",
+    "loan_purpose": "Education",
+    "credit_score": 725.1,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00422",
+    "loan_purpose": "Home",
+    "credit_score": 620.4,
+    "repayment_history": 1,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00423",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00424",
+    "loan_purpose": "Home",
+    "credit_score": 664.8,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00425",
+    "loan_purpose": "Other",
+    "credit_score": 824.2,
+    "repayment_history": 2,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00426",
+    "loan_purpose": "Home",
+    "credit_score": 619.2,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00427",
+    "loan_purpose": "Home",
+    "credit_score": 739.3,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00428",
+    "loan_purpose": "Other",
+    "credit_score": 725.3,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00429",
+    "loan_purpose": "Other",
+    "credit_score": 614.3,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00430",
+    "loan_purpose": "Education",
+    "credit_score": 751.8,
+    "repayment_history": 3,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00431",
+    "loan_purpose": "Business",
+    "credit_score": 668.8,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00432",
+    "loan_purpose": "Home",
+    "credit_score": 580.4,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00433",
+    "loan_purpose": "Home",
+    "credit_score": 760.4,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00434",
+    "loan_purpose": "Home",
+    "credit_score": 585.7,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00435",
+    "loan_purpose": "Other",
+    "credit_score": 664.4,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00436",
+    "loan_purpose": "Business",
+    "credit_score": 736.2,
+    "repayment_history": 2,
+    "transaction_count": 28
+  },
+  {
+    "customer_id": "CR00437",
+    "loan_purpose": "Business",
+    "credit_score": 636.9,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00438",
+    "loan_purpose": "Education",
+    "credit_score": 727.7,
+    "repayment_history": 2,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00439",
+    "loan_purpose": "Other",
+    "credit_score": 658.2,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00440",
+    "loan_purpose": "Education",
+    "credit_score": 632.7,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00441",
+    "loan_purpose": "Car",
+    "credit_score": 692.2,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00442",
+    "loan_purpose": "Car",
+    "credit_score": 639.2,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00443",
+    "loan_purpose": "Other",
+    "credit_score": 660.9,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00444",
+    "loan_purpose": "Car",
+    "credit_score": 691.0,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00445",
+    "loan_purpose": "Education",
+    "credit_score": 622.4,
+    "repayment_history": 0,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00446",
+    "loan_purpose": "Home",
+    "credit_score": 694.1,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00447",
+    "loan_purpose": "Car",
+    "credit_score": 729.5,
+    "repayment_history": 2,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00448",
+    "loan_purpose": "Business",
+    "credit_score": 712.8,
+    "repayment_history": 4,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00449",
+    "loan_purpose": "Home",
+    "credit_score": 654.6,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00450",
+    "loan_purpose": "Car",
+    "credit_score": 698.3,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00451",
+    "loan_purpose": "Education",
+    "credit_score": 694.0,
+    "repayment_history": 3,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00452",
+    "loan_purpose": "Business",
+    "credit_score": 638.9,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00453",
+    "loan_purpose": "Education",
+    "credit_score": 613.1,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00454",
+    "loan_purpose": "Home",
+    "credit_score": 674.5,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00455",
+    "loan_purpose": "Business",
+    "credit_score": 643.2,
+    "repayment_history": 1,
+    "transaction_count": 208
+  },
+  {
+    "customer_id": "CR00456",
+    "loan_purpose": "Other",
+    "credit_score": 691.6,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00457",
+    "loan_purpose": "Car",
+    "credit_score": 629.9,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00458",
+    "loan_purpose": "Car",
+    "credit_score": 565.5,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00459",
+    "loan_purpose": "Business",
+    "credit_score": 493.1,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00460",
+    "loan_purpose": "Car",
+    "credit_score": 678.7,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00461",
+    "loan_purpose": "Business",
+    "credit_score": 680.7,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00462",
+    "loan_purpose": "Home",
+    "credit_score": 712.5,
+    "repayment_history": 4,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00463",
+    "loan_purpose": "Other",
+    "credit_score": 593.0,
+    "repayment_history": 3,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00464",
+    "loan_purpose": "Education",
+    "credit_score": 663.4,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00465",
+    "loan_purpose": "Home",
+    "credit_score": 606.0,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00466",
+    "loan_purpose": "Other",
+    "credit_score": 704.4,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00467",
+    "loan_purpose": "Home",
+    "credit_score": 691.7,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00468",
+    "loan_purpose": "Other",
+    "credit_score": 626.3,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00469",
+    "loan_purpose": "Car",
+    "credit_score": 723.7,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00470",
+    "loan_purpose": "Education",
+    "credit_score": 653.6,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00471",
+    "loan_purpose": "Home",
+    "credit_score": 719.0,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00472",
+    "loan_purpose": "Home",
+    "credit_score": 689.6,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00473",
+    "loan_purpose": "Education",
+    "credit_score": 645.9,
+    "repayment_history": 2,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00474",
+    "loan_purpose": "Business",
+    "credit_score": 694.2,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00475",
+    "loan_purpose": "Car",
+    "credit_score": 723.9,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00476",
+    "loan_purpose": "Other",
+    "credit_score": 611.5,
+    "repayment_history": 1,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00477",
+    "loan_purpose": "Car",
+    "credit_score": 717.3,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00478",
+    "loan_purpose": "Education",
+    "credit_score": 684.9,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00479",
+    "loan_purpose": "Business",
+    "credit_score": 817.2,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00480",
+    "loan_purpose": "Car",
+    "credit_score": 665.0,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00481",
+    "loan_purpose": "Business",
+    "credit_score": 712.7,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00482",
+    "loan_purpose": "Business",
+    "credit_score": 749.2,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00483",
+    "loan_purpose": "Car",
+    "credit_score": 734.8,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00484",
+    "loan_purpose": "Business",
+    "credit_score": 720.3,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00485",
+    "loan_purpose": "Other",
+    "credit_score": 712.3,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00486",
+    "loan_purpose": "Home",
+    "credit_score": 736.7,
+    "repayment_history": 3,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00487",
+    "loan_purpose": "Home",
+    "credit_score": 678.4,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00488",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00489",
+    "loan_purpose": "Car",
+    "credit_score": 681.1,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00490",
+    "loan_purpose": "Business",
+    "credit_score": 665.5,
+    "repayment_history": 3,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00491",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00492",
+    "loan_purpose": "Home",
+    "credit_score": 645.7,
+    "repayment_history": 2,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00493",
+    "loan_purpose": "Business",
+    "credit_score": 620.1,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00494",
+    "loan_purpose": "Education",
+    "credit_score": 703.3,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00495",
+    "loan_purpose": "Business",
+    "credit_score": 654.7,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00496",
+    "loan_purpose": "Other",
+    "credit_score": 739.1,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00497",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00498",
+    "loan_purpose": "Other",
+    "credit_score": 648.5,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00499",
+    "loan_purpose": "Home",
+    "credit_score": 870.0,
+    "repayment_history": 10,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00500",
+    "loan_purpose": "Home",
+    "credit_score": 697.5,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00501",
+    "loan_purpose": "Home",
+    "credit_score": 701.5,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00502",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00503",
+    "loan_purpose": "Car",
+    "credit_score": 751.2,
+    "repayment_history": 3,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00504",
+    "loan_purpose": "Home",
+    "credit_score": 692.7,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00505",
+    "loan_purpose": "Business",
+    "credit_score": 717.9,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00506",
+    "loan_purpose": "Other",
+    "credit_score": 717.7,
+    "repayment_history": 2,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00507",
+    "loan_purpose": "Education",
+    "credit_score": 587.1,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00508",
+    "loan_purpose": "Other",
+    "credit_score": 663.2,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00509",
+    "loan_purpose": "Business",
+    "credit_score": 639.9,
+    "repayment_history": 1,
+    "transaction_count": 28
+  },
+  {
+    "customer_id": "CR00510",
+    "loan_purpose": "Business",
+    "credit_score": 648.5,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00511",
+    "loan_purpose": "Car",
+    "credit_score": 638.7,
+    "repayment_history": 2,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00512",
+    "loan_purpose": "Home",
+    "credit_score": 741.1,
+    "repayment_history": 0,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00513",
+    "loan_purpose": "Other",
+    "credit_score": 710.6,
+    "repayment_history": 3,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00514",
+    "loan_purpose": "Car",
+    "credit_score": 734.9,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00515",
+    "loan_purpose": "Education",
+    "credit_score": 671.7,
+    "repayment_history": 0,
+    "transaction_count": 56
+  },
+  {
+    "customer_id": "CR00516",
+    "loan_purpose": "Home",
+    "credit_score": 615.2,
+    "repayment_history": 2,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00517",
+    "loan_purpose": "Home",
+    "credit_score": 704.8,
+    "repayment_history": 0,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00518",
+    "loan_purpose": "Car",
+    "credit_score": 648.2,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00519",
+    "loan_purpose": "Business",
+    "credit_score": 737.0,
+    "repayment_history": 0,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00520",
+    "loan_purpose": "Home",
+    "credit_score": 617.6,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00521",
+    "loan_purpose": "Business",
+    "credit_score": 734.5,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00522",
+    "loan_purpose": "Other",
+    "credit_score": 617.0,
+    "repayment_history": 4,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00523",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00524",
+    "loan_purpose": "Home",
+    "credit_score": 682.2,
+    "repayment_history": 0,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00525",
+    "loan_purpose": "Other",
+    "credit_score": 623.8,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00526",
+    "loan_purpose": "Home",
+    "credit_score": 710.9,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00527",
+    "loan_purpose": "Car",
+    "credit_score": 709.3,
+    "repayment_history": 3,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00528",
+    "loan_purpose": "Car",
+    "credit_score": 706.9,
+    "repayment_history": 4,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00529",
+    "loan_purpose": "Car",
+    "credit_score": 645.3,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00530",
+    "loan_purpose": "Home",
+    "credit_score": 620.7,
+    "repayment_history": 2,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00531",
+    "loan_purpose": "Business",
+    "credit_score": 643.8,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00532",
+    "loan_purpose": "Home",
+    "credit_score": 642.4,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00533",
+    "loan_purpose": "Business",
+    "credit_score": 692.7,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00534",
+    "loan_purpose": "Other",
+    "credit_score": 710.8,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00535",
+    "loan_purpose": "Other",
+    "credit_score": 658.1,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00536",
+    "loan_purpose": "Home",
+    "credit_score": 694.3,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00537",
+    "loan_purpose": "Other",
+    "credit_score": 789.2,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00538",
+    "loan_purpose": "Car",
+    "credit_score": 620.9,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00539",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00540",
+    "loan_purpose": "Business",
+    "credit_score": 554.9,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00541",
+    "loan_purpose": "Business",
+    "credit_score": 706.6,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00542",
+    "loan_purpose": "Car",
+    "credit_score": 674.8,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00543",
+    "loan_purpose": "Car",
+    "credit_score": 730.8,
+    "repayment_history": 3,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00544",
+    "loan_purpose": "Home",
+    "credit_score": 655.9,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00545",
+    "loan_purpose": "Business",
+    "credit_score": 658.9,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00546",
+    "loan_purpose": "Other",
+    "credit_score": 652.9,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00547",
+    "loan_purpose": "Business",
+    "credit_score": 776.8,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00548",
+    "loan_purpose": "Home",
+    "credit_score": 584.1,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00549",
+    "loan_purpose": "Home",
+    "credit_score": 686.2,
+    "repayment_history": 3,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00550",
+    "loan_purpose": "Business",
+    "credit_score": 576.7,
+    "repayment_history": 1,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00551",
+    "loan_purpose": "Car",
+    "credit_score": 622.2,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00552",
+    "loan_purpose": "Business",
+    "credit_score": 659.6,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00553",
+    "loan_purpose": "Home",
+    "credit_score": 742.0,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00554",
+    "loan_purpose": "Car",
+    "credit_score": 700.6,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00555",
+    "loan_purpose": "Other",
+    "credit_score": 663.6,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00556",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00557",
+    "loan_purpose": "Home",
+    "credit_score": 681.5,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00558",
+    "loan_purpose": "Car",
+    "credit_score": 797.5,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00559",
+    "loan_purpose": "Other",
+    "credit_score": 701.2,
+    "repayment_history": 0,
+    "transaction_count": 29
+  },
+  {
+    "customer_id": "CR00560",
+    "loan_purpose": "Business",
+    "credit_score": 682.8,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00561",
+    "loan_purpose": "Home",
+    "credit_score": 679.2,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00562",
+    "loan_purpose": "Car",
+    "credit_score": 662.8,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00563",
+    "loan_purpose": "Business",
+    "credit_score": 657.2,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00564",
+    "loan_purpose": "Other",
+    "credit_score": 671.1,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00565",
+    "loan_purpose": "Business",
+    "credit_score": 758.4,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00566",
+    "loan_purpose": "Business",
+    "credit_score": 678.2,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00567",
+    "loan_purpose": "Home",
+    "credit_score": 724.3,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00568",
+    "loan_purpose": "Education",
+    "credit_score": 662.3,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00569",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00570",
+    "loan_purpose": "Education",
+    "credit_score": 680.8,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00571",
+    "loan_purpose": "Home",
+    "credit_score": 707.8,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00572",
+    "loan_purpose": "Home",
+    "credit_score": 672.3,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00573",
+    "loan_purpose": "Other",
+    "credit_score": 687.0,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00574",
+    "loan_purpose": "Home",
+    "credit_score": 730.7,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00575",
+    "loan_purpose": "Home",
+    "credit_score": 656.8,
+    "repayment_history": 0,
+    "transaction_count": 63
+  },
+  {
+    "customer_id": "CR00576",
+    "loan_purpose": "Education",
+    "credit_score": 699.7,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00577",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00578",
+    "loan_purpose": "Car",
+    "credit_score": 652.0,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00579",
+    "loan_purpose": "Car",
+    "credit_score": 725.3,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00580",
+    "loan_purpose": "Home",
+    "credit_score": 758.4,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00581",
+    "loan_purpose": "Home",
+    "credit_score": 516.8,
+    "repayment_history": 0,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00582",
+    "loan_purpose": "Other",
+    "credit_score": 720.0,
+    "repayment_history": 3,
+    "transaction_count": 130
+  },
+  {
+    "customer_id": "CR00583",
+    "loan_purpose": "Home",
+    "credit_score": 627.4,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00584",
+    "loan_purpose": "Other",
+    "credit_score": 685.0,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00585",
+    "loan_purpose": "Education",
+    "credit_score": 618.7,
+    "repayment_history": 2,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00586",
+    "loan_purpose": "Other",
+    "credit_score": 639.5,
+    "repayment_history": 1,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00587",
+    "loan_purpose": "Business",
+    "credit_score": 638.8,
+    "repayment_history": 0,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00588",
+    "loan_purpose": "Business",
+    "credit_score": 627.3,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00589",
+    "loan_purpose": "Home",
+    "credit_score": 689.9,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00590",
+    "loan_purpose": "Home",
+    "credit_score": 572.9,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00591",
+    "loan_purpose": "Business",
+    "credit_score": 653.8,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00592",
+    "loan_purpose": "Home",
+    "credit_score": 716.1,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00593",
+    "loan_purpose": "Car",
+    "credit_score": 691.5,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00594",
+    "loan_purpose": "Car",
+    "credit_score": 545.6,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00595",
+    "loan_purpose": "Car",
+    "credit_score": 688.5,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00596",
+    "loan_purpose": "Home",
+    "credit_score": 670.2,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00597",
+    "loan_purpose": "Other",
+    "credit_score": 626.2,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00598",
+    "loan_purpose": "Education",
+    "credit_score": 691.3,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00599",
+    "loan_purpose": "Other",
+    "credit_score": 532.2,
+    "repayment_history": 3,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00600",
+    "loan_purpose": "Business",
+    "credit_score": 726.0,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00601",
+    "loan_purpose": "Home",
+    "credit_score": 594.3,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00602",
+    "loan_purpose": "Other",
+    "credit_score": 699.3,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00603",
+    "loan_purpose": "Business",
+    "credit_score": 613.5,
+    "repayment_history": 3,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00604",
+    "loan_purpose": "Other",
+    "credit_score": 701.4,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00605",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00606",
+    "loan_purpose": "Home",
+    "credit_score": 696.3,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00607",
+    "loan_purpose": "Education",
+    "credit_score": 754.6,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00608",
+    "loan_purpose": "Business",
+    "credit_score": 672.6,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00609",
+    "loan_purpose": "Business",
+    "credit_score": 729.5,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00610",
+    "loan_purpose": "Education",
+    "credit_score": 719.2,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00611",
+    "loan_purpose": "Education",
+    "credit_score": 610.8,
+    "repayment_history": 3,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00612",
+    "loan_purpose": "Home",
+    "credit_score": 627.9,
+    "repayment_history": 3,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00613",
+    "loan_purpose": "Education",
+    "credit_score": 664.0,
+    "repayment_history": 3,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00614",
+    "loan_purpose": "Home",
+    "credit_score": 764.5,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00615",
+    "loan_purpose": "Home",
+    "credit_score": 759.8,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00616",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00617",
+    "loan_purpose": "Business",
+    "credit_score": 650.3,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00618",
+    "loan_purpose": "Car",
+    "credit_score": 730.9,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00619",
+    "loan_purpose": "Other",
+    "credit_score": 709.9,
+    "repayment_history": 3,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00620",
+    "loan_purpose": "Education",
+    "credit_score": 731.0,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00621",
+    "loan_purpose": "Home",
+    "credit_score": 708.7,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00622",
+    "loan_purpose": "Other",
+    "credit_score": 626.9,
+    "repayment_history": 1,
+    "transaction_count": 56
+  },
+  {
+    "customer_id": "CR00623",
+    "loan_purpose": "Home",
+    "credit_score": 752.0,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00624",
+    "loan_purpose": "Education",
+    "credit_score": 680.9,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00625",
+    "loan_purpose": "Car",
+    "credit_score": 588.1,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00626",
+    "loan_purpose": "Car",
+    "credit_score": 662.0,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00627",
+    "loan_purpose": "Other",
+    "credit_score": 668.8,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00628",
+    "loan_purpose": "Other",
+    "credit_score": 775.7,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00629",
+    "loan_purpose": "Home",
+    "credit_score": 716.4,
+    "repayment_history": 0,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00630",
+    "loan_purpose": "Business",
+    "credit_score": 713.1,
+    "repayment_history": 0,
+    "transaction_count": 29
+  },
+  {
+    "customer_id": "CR00631",
+    "loan_purpose": "Home",
+    "credit_score": 712.2,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00632",
+    "loan_purpose": "Education",
+    "credit_score": 719.9,
+    "repayment_history": 1,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00633",
+    "loan_purpose": "Car",
+    "credit_score": 662.9,
+    "repayment_history": 1,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00634",
+    "loan_purpose": "Business",
+    "credit_score": 671.5,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00635",
+    "loan_purpose": "Car",
+    "credit_score": 610.0,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00636",
+    "loan_purpose": "Business",
+    "credit_score": 825.2,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00637",
+    "loan_purpose": "Home",
+    "credit_score": 686.2,
+    "repayment_history": 2,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00638",
+    "loan_purpose": "Home",
+    "credit_score": 794.8,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00639",
+    "loan_purpose": "Home",
+    "credit_score": 746.5,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00640",
+    "loan_purpose": "Business",
+    "credit_score": 700.5,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00641",
+    "loan_purpose": "Home",
+    "credit_score": 669.4,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00642",
+    "loan_purpose": "Car",
+    "credit_score": 672.7,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00643",
+    "loan_purpose": "Education",
+    "credit_score": 816.2,
+    "repayment_history": 1,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00644",
+    "loan_purpose": "Business",
+    "credit_score": 815.0,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00645",
+    "loan_purpose": "Other",
+    "credit_score": 633.4,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00646",
+    "loan_purpose": "Car",
+    "credit_score": 636.6,
+    "repayment_history": 4,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00647",
+    "loan_purpose": "Home",
+    "credit_score": 651.8,
+    "repayment_history": 11,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00648",
+    "loan_purpose": "Business",
+    "credit_score": 760.8,
+    "repayment_history": 3,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00649",
+    "loan_purpose": "Home",
+    "credit_score": 650.2,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00650",
+    "loan_purpose": "Education",
+    "credit_score": 640.2,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00651",
+    "loan_purpose": "Home",
+    "credit_score": 787.2,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00652",
+    "loan_purpose": "Home",
+    "credit_score": 753.4,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00653",
+    "loan_purpose": "Education",
+    "credit_score": 670.5,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00654",
+    "loan_purpose": "Other",
+    "credit_score": 695.0,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00655",
+    "loan_purpose": "Home",
+    "credit_score": 708.8,
+    "repayment_history": 3,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00656",
+    "loan_purpose": "Education",
+    "credit_score": 740.2,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00657",
+    "loan_purpose": "Car",
+    "credit_score": 712.2,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00658",
+    "loan_purpose": "Car",
+    "credit_score": 648.2,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00659",
+    "loan_purpose": "Business",
+    "credit_score": 739.0,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00660",
+    "loan_purpose": "Car",
+    "credit_score": 616.7,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00661",
+    "loan_purpose": "Home",
+    "credit_score": 628.5,
+    "repayment_history": 1,
+    "transaction_count": 56
+  },
+  {
+    "customer_id": "CR00662",
+    "loan_purpose": "Car",
+    "credit_score": 711.8,
+    "repayment_history": 3,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00663",
+    "loan_purpose": "Home",
+    "credit_score": 759.6,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00664",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00665",
+    "loan_purpose": "Education",
+    "credit_score": 650.1,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00666",
+    "loan_purpose": "Other",
+    "credit_score": 595.1,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00667",
+    "loan_purpose": "Car",
+    "credit_score": 722.6,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00668",
+    "loan_purpose": "Home",
+    "credit_score": 594.7,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00669",
+    "loan_purpose": "Other",
+    "credit_score": 688.9,
+    "repayment_history": 2,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00670",
+    "loan_purpose": "Home",
+    "credit_score": 584.0,
+    "repayment_history": 3,
+    "transaction_count": 28
+  },
+  {
+    "customer_id": "CR00671",
+    "loan_purpose": "Home",
+    "credit_score": 600.4,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00672",
+    "loan_purpose": "Business",
+    "credit_score": 677.2,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00673",
+    "loan_purpose": "Other",
+    "credit_score": 676.6,
+    "repayment_history": 2,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00674",
+    "loan_purpose": "Car",
+    "credit_score": 614.7,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00675",
+    "loan_purpose": "Education",
+    "credit_score": 697.7,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00676",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00677",
+    "loan_purpose": "Home",
+    "credit_score": 655.6,
+    "repayment_history": 2,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00678",
+    "loan_purpose": "Other",
+    "credit_score": 699.3,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00679",
+    "loan_purpose": "Home",
+    "credit_score": 617.8,
+    "repayment_history": 0,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00680",
+    "loan_purpose": "Business",
+    "credit_score": 665.6,
+    "repayment_history": 3,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00681",
+    "loan_purpose": "Other",
+    "credit_score": 685.4,
+    "repayment_history": 1,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00682",
+    "loan_purpose": "Business",
+    "credit_score": 831.2,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00683",
+    "loan_purpose": "Business",
+    "credit_score": 739.0,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00684",
+    "loan_purpose": "Home",
+    "credit_score": 701.0,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00685",
+    "loan_purpose": "Home",
+    "credit_score": 743.6,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00686",
+    "loan_purpose": "Home",
+    "credit_score": 890.0,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00687",
+    "loan_purpose": "Home",
+    "credit_score": 679.1,
+    "repayment_history": 3,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00688",
+    "loan_purpose": "Car",
+    "credit_score": 625.4,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00689",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00690",
+    "loan_purpose": "Car",
+    "credit_score": 683.9,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00691",
+    "loan_purpose": "Business",
+    "credit_score": 651.7,
+    "repayment_history": 1,
+    "transaction_count": 57
+  },
+  {
+    "customer_id": "CR00692",
+    "loan_purpose": "Home",
+    "credit_score": 709.5,
+    "repayment_history": 4,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00693",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00694",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00695",
+    "loan_purpose": "Car",
+    "credit_score": 702.5,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00696",
+    "loan_purpose": "Car",
+    "credit_score": 559.6,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00697",
+    "loan_purpose": "Home",
+    "credit_score": 620.8,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00698",
+    "loan_purpose": "Business",
+    "credit_score": 735.5,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00699",
+    "loan_purpose": "Home",
+    "credit_score": 671.5,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00700",
+    "loan_purpose": "Education",
+    "credit_score": 604.1,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00701",
+    "loan_purpose": "Car",
+    "credit_score": 670.2,
+    "repayment_history": 4,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00702",
+    "loan_purpose": "Car",
+    "credit_score": 672.0,
+    "repayment_history": 3,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00703",
+    "loan_purpose": "Home",
+    "credit_score": 659.6,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00704",
+    "loan_purpose": "Home",
+    "credit_score": 572.3,
+    "repayment_history": 3,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00705",
+    "loan_purpose": "Home",
+    "credit_score": 592.6,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00706",
+    "loan_purpose": "Other",
+    "credit_score": 685.6,
+    "repayment_history": 2,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00707",
+    "loan_purpose": "Business",
+    "credit_score": 700.3,
+    "repayment_history": 0,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00708",
+    "loan_purpose": "Business",
+    "credit_score": 629.4,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00709",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00710",
+    "loan_purpose": "Other",
+    "credit_score": 543.8,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00711",
+    "loan_purpose": "Other",
+    "credit_score": 779.4,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00712",
+    "loan_purpose": "Car",
+    "credit_score": 746.1,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00713",
+    "loan_purpose": "Business",
+    "credit_score": 711.9,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00714",
+    "loan_purpose": "Business",
+    "credit_score": 850.0,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00715",
+    "loan_purpose": "Home",
+    "credit_score": 671.0,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00716",
+    "loan_purpose": "Home",
+    "credit_score": 637.2,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00717",
+    "loan_purpose": "Car",
+    "credit_score": 667.5,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00718",
+    "loan_purpose": "Business",
+    "credit_score": 621.5,
+    "repayment_history": 0,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00719",
+    "loan_purpose": "Car",
+    "credit_score": 606.9,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00720",
+    "loan_purpose": "Car",
+    "credit_score": 745.3,
+    "repayment_history": 12,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00721",
+    "loan_purpose": "Business",
+    "credit_score": 735.8,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00722",
+    "loan_purpose": "Business",
+    "credit_score": 705.9,
+    "repayment_history": 0,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00723",
+    "loan_purpose": "Education",
+    "credit_score": 698.0,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00724",
+    "loan_purpose": "Other",
+    "credit_score": 653.0,
+    "repayment_history": 0,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00725",
+    "loan_purpose": "Business",
+    "credit_score": 694.8,
+    "repayment_history": 4,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00726",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00727",
+    "loan_purpose": "Home",
+    "credit_score": 709.5,
+    "repayment_history": 4,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00728",
+    "loan_purpose": "Other",
+    "credit_score": 737.9,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00729",
+    "loan_purpose": "Home",
+    "credit_score": 656.5,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00730",
+    "loan_purpose": "Business",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00731",
+    "loan_purpose": "Education",
+    "credit_score": 567.6,
+    "repayment_history": 2,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00732",
+    "loan_purpose": "Home",
+    "credit_score": 617.7,
+    "repayment_history": 1,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00733",
+    "loan_purpose": "Other",
+    "credit_score": 616.9,
+    "repayment_history": 1,
+    "transaction_count": 59
+  },
+  {
+    "customer_id": "CR00734",
+    "loan_purpose": "Home",
+    "credit_score": 683.6,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00735",
+    "loan_purpose": "Home",
+    "credit_score": 647.9,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00736",
+    "loan_purpose": "Home",
+    "credit_score": 604.6,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00737",
+    "loan_purpose": "Education",
+    "credit_score": 644.5,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00738",
+    "loan_purpose": "Car",
+    "credit_score": 683.0,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00739",
+    "loan_purpose": "Business",
+    "credit_score": 731.3,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00740",
+    "loan_purpose": "Home",
+    "credit_score": 591.8,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00741",
+    "loan_purpose": "Business",
+    "credit_score": 561.8,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00742",
+    "loan_purpose": "Car",
+    "credit_score": 757.3,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00743",
+    "loan_purpose": "Home",
+    "credit_score": 529.1,
+    "repayment_history": 2,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00744",
+    "loan_purpose": "Home",
+    "credit_score": 755.5,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00745",
+    "loan_purpose": "Education",
+    "credit_score": 700.9,
+    "repayment_history": 2,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00746",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00747",
+    "loan_purpose": "Car",
+    "credit_score": 620.5,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00748",
+    "loan_purpose": "Business",
+    "credit_score": 662.9,
+    "repayment_history": 0,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00749",
+    "loan_purpose": "Business",
+    "credit_score": 721.9,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00750",
+    "loan_purpose": "Home",
+    "credit_score": 732.4,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00751",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00752",
+    "loan_purpose": "Home",
+    "credit_score": 604.7,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00753",
+    "loan_purpose": "Business",
+    "credit_score": 649.7,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00754",
+    "loan_purpose": "Business",
+    "credit_score": 671.3,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00755",
+    "loan_purpose": "Home",
+    "credit_score": 647.5,
+    "repayment_history": 2,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00756",
+    "loan_purpose": "Business",
+    "credit_score": 697.1,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00757",
+    "loan_purpose": "Business",
+    "credit_score": 679.1,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00758",
+    "loan_purpose": "Business",
+    "credit_score": 768.5,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00759",
+    "loan_purpose": "Home",
+    "credit_score": 649.2,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00760",
+    "loan_purpose": "Home",
+    "credit_score": 675.1,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00761",
+    "loan_purpose": "Home",
+    "credit_score": 763.0,
+    "repayment_history": 2,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00762",
+    "loan_purpose": "Home",
+    "credit_score": 709.5,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00763",
+    "loan_purpose": "Business",
+    "credit_score": 600.8,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00764",
+    "loan_purpose": "Business",
+    "credit_score": 740.9,
+    "repayment_history": 3,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00765",
+    "loan_purpose": "Other",
+    "credit_score": 672.0,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00766",
+    "loan_purpose": "Car",
+    "credit_score": 791.5,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00767",
+    "loan_purpose": "Car",
+    "credit_score": 689.9,
+    "repayment_history": 3,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00768",
+    "loan_purpose": "Business",
+    "credit_score": 681.3,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00769",
+    "loan_purpose": "Education",
+    "credit_score": 749.8,
+    "repayment_history": 1,
+    "transaction_count": 57
+  },
+  {
+    "customer_id": "CR00770",
+    "loan_purpose": "Home",
+    "credit_score": 647.6,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00771",
+    "loan_purpose": "Home",
+    "credit_score": 714.5,
+    "repayment_history": 3,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00772",
+    "loan_purpose": "Car",
+    "credit_score": 508.4,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00773",
+    "loan_purpose": "Other",
+    "credit_score": 662.2,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00774",
+    "loan_purpose": "Other",
+    "credit_score": 738.5,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00775",
+    "loan_purpose": "Car",
+    "credit_score": 701.8,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00776",
+    "loan_purpose": "Education",
+    "credit_score": 624.0,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00777",
+    "loan_purpose": "Car",
+    "credit_score": 674.5,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00778",
+    "loan_purpose": "Business",
+    "credit_score": 755.5,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00779",
+    "loan_purpose": "Business",
+    "credit_score": 667.2,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00780",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00781",
+    "loan_purpose": "Other",
+    "credit_score": 662.3,
+    "repayment_history": 1,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00782",
+    "loan_purpose": "Home",
+    "credit_score": 692.8,
+    "repayment_history": 0,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00783",
+    "loan_purpose": "Home",
+    "credit_score": 620.3,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00784",
+    "loan_purpose": "Other",
+    "credit_score": 657.2,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00785",
+    "loan_purpose": "Other",
+    "credit_score": 839.1,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00786",
+    "loan_purpose": "Business",
+    "credit_score": 642.4,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00787",
+    "loan_purpose": "Business",
+    "credit_score": 678.1,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00788",
+    "loan_purpose": "Education",
+    "credit_score": 280.0,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00789",
+    "loan_purpose": "Education",
+    "credit_score": 622.1,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00790",
+    "loan_purpose": "Home",
+    "credit_score": 680.4,
+    "repayment_history": 3,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00791",
+    "loan_purpose": "Home",
+    "credit_score": 750.5,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00792",
+    "loan_purpose": "Business",
+    "credit_score": 781.1,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00793",
+    "loan_purpose": "Home",
+    "credit_score": 701.5,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00794",
+    "loan_purpose": "Car",
+    "credit_score": 567.9,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00795",
+    "loan_purpose": "Education",
+    "credit_score": 630.1,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00796",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00797",
+    "loan_purpose": "Home",
+    "credit_score": 685.0,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00798",
+    "loan_purpose": "Business",
+    "credit_score": 582.5,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00799",
+    "loan_purpose": "Other",
+    "credit_score": 626.2,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00800",
+    "loan_purpose": "Business",
+    "credit_score": 771.4,
+    "repayment_history": 1,
+    "transaction_count": 54
+  },
+  {
+    "customer_id": "CR00801",
+    "loan_purpose": "Other",
+    "credit_score": 725.3,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00802",
+    "loan_purpose": "Other",
+    "credit_score": 695.5,
+    "repayment_history": 9,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00803",
+    "loan_purpose": "Education",
+    "credit_score": 698.7,
+    "repayment_history": 0,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00804",
+    "loan_purpose": "Education",
+    "credit_score": 659.4,
+    "repayment_history": 1,
+    "transaction_count": 56
+  },
+  {
+    "customer_id": "CR00805",
+    "loan_purpose": "Home",
+    "credit_score": 627.4,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00806",
+    "loan_purpose": "Home",
+    "credit_score": 800.2,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00807",
+    "loan_purpose": "Home",
+    "credit_score": 700.2,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00808",
+    "loan_purpose": "Home",
+    "credit_score": 612.7,
+    "repayment_history": 1,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00809",
+    "loan_purpose": "Home",
+    "credit_score": 648.1,
+    "repayment_history": 2,
+    "transaction_count": 58
+  },
+  {
+    "customer_id": "CR00810",
+    "loan_purpose": "Business",
+    "credit_score": 670.4,
+    "repayment_history": 3,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00811",
+    "loan_purpose": "Home",
+    "credit_score": 726.1,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00812",
+    "loan_purpose": "Other",
+    "credit_score": 664.6,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00813",
+    "loan_purpose": "Car",
+    "credit_score": 704.6,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00814",
+    "loan_purpose": "Business",
+    "credit_score": 662.3,
+    "repayment_history": 2,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00815",
+    "loan_purpose": "Education",
+    "credit_score": 734.0,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00816",
+    "loan_purpose": "Other",
+    "credit_score": 692.7,
+    "repayment_history": 3,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00817",
+    "loan_purpose": "Home",
+    "credit_score": 766.1,
+    "repayment_history": 0,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00818",
+    "loan_purpose": "Business",
+    "credit_score": 664.4,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00819",
+    "loan_purpose": "Other",
+    "credit_score": 637.7,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00820",
+    "loan_purpose": "Education",
+    "credit_score": 740.6,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00821",
+    "loan_purpose": "Other",
+    "credit_score": 649.6,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00822",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00823",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00824",
+    "loan_purpose": "Car",
+    "credit_score": 707.7,
+    "repayment_history": 3,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00825",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00826",
+    "loan_purpose": "Home",
+    "credit_score": 696.3,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00827",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00828",
+    "loan_purpose": "Home",
+    "credit_score": 656.9,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00829",
+    "loan_purpose": "Other",
+    "credit_score": 716.4,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00830",
+    "loan_purpose": "Business",
+    "credit_score": 767.3,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00831",
+    "loan_purpose": "Home",
+    "credit_score": 743.7,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00832",
+    "loan_purpose": "Car",
+    "credit_score": 684.7,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00833",
+    "loan_purpose": "Home",
+    "credit_score": 630.0,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00834",
+    "loan_purpose": "Home",
+    "credit_score": 655.2,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00835",
+    "loan_purpose": "Business",
+    "credit_score": 508.1,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00836",
+    "loan_purpose": "Education",
+    "credit_score": 634.2,
+    "repayment_history": 3,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00837",
+    "loan_purpose": "Car",
+    "credit_score": 646.2,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00838",
+    "loan_purpose": "Business",
+    "credit_score": 656.4,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00839",
+    "loan_purpose": "Car",
+    "credit_score": 738.7,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00840",
+    "loan_purpose": "Other",
+    "credit_score": 732.9,
+    "repayment_history": 1,
+    "transaction_count": 147
+  },
+  {
+    "customer_id": "CR00841",
+    "loan_purpose": "Home",
+    "credit_score": 594.0,
+    "repayment_history": 0,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00842",
+    "loan_purpose": "Home",
+    "credit_score": 633.8,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00843",
+    "loan_purpose": "Other",
+    "credit_score": 640.5,
+    "repayment_history": 0,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00844",
+    "loan_purpose": "Home",
+    "credit_score": 772.1,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00845",
+    "loan_purpose": "Home",
+    "credit_score": 638.1,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00846",
+    "loan_purpose": "Education",
+    "credit_score": 533.2,
+    "repayment_history": 0,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00847",
+    "loan_purpose": "Education",
+    "credit_score": 747.9,
+    "repayment_history": 1,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00848",
+    "loan_purpose": "Home",
+    "credit_score": 697.7,
+    "repayment_history": 3,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00849",
+    "loan_purpose": "Business",
+    "credit_score": 533.4,
+    "repayment_history": 0,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00850",
+    "loan_purpose": "Home",
+    "credit_score": 758.8,
+    "repayment_history": 2,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00851",
+    "loan_purpose": "Business",
+    "credit_score": 758.7,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00852",
+    "loan_purpose": "Education",
+    "credit_score": 671.6,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00853",
+    "loan_purpose": "Business",
+    "credit_score": 668.0,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00854",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00855",
+    "loan_purpose": "Car",
+    "credit_score": 638.6,
+    "repayment_history": 0,
+    "transaction_count": 29
+  },
+  {
+    "customer_id": "CR00856",
+    "loan_purpose": "Home",
+    "credit_score": 672.2,
+    "repayment_history": 0,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00857",
+    "loan_purpose": "Home",
+    "credit_score": 641.3,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00858",
+    "loan_purpose": "Education",
+    "credit_score": 619.7,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00859",
+    "loan_purpose": "Home",
+    "credit_score": 575.5,
+    "repayment_history": 4,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00860",
+    "loan_purpose": "Car",
+    "credit_score": 661.2,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00861",
+    "loan_purpose": "Car",
+    "credit_score": 746.2,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00862",
+    "loan_purpose": "Education",
+    "credit_score": 598.9,
+    "repayment_history": 3,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00863",
+    "loan_purpose": "Other",
+    "credit_score": 757.9,
+    "repayment_history": 2,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00864",
+    "loan_purpose": "Car",
+    "credit_score": 574.5,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00865",
+    "loan_purpose": "Business",
+    "credit_score": 574.6,
+    "repayment_history": 0,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00866",
+    "loan_purpose": "Home",
+    "credit_score": 650.0,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00867",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00868",
+    "loan_purpose": "Other",
+    "credit_score": 603.8,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00869",
+    "loan_purpose": "Other",
+    "credit_score": 689.6,
+    "repayment_history": 1,
+    "transaction_count": 58
+  },
+  {
+    "customer_id": "CR00870",
+    "loan_purpose": "Business",
+    "credit_score": 649.6,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00871",
+    "loan_purpose": "Home",
+    "credit_score": 613.3,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00872",
+    "loan_purpose": "Home",
+    "credit_score": 674.6,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00873",
+    "loan_purpose": "Other",
+    "credit_score": 755.9,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00874",
+    "loan_purpose": "Education",
+    "credit_score": 692.7,
+    "repayment_history": 3,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00875",
+    "loan_purpose": "Car",
+    "credit_score": 630.3,
+    "repayment_history": 4,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00876",
+    "loan_purpose": "Car",
+    "credit_score": 672.6,
+    "repayment_history": 3,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00877",
+    "loan_purpose": "Business",
+    "credit_score": 625.7,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00878",
+    "loan_purpose": "Other",
+    "credit_score": 661.7,
+    "repayment_history": 3,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00879",
+    "loan_purpose": "Home",
+    "credit_score": 723.7,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00880",
+    "loan_purpose": "Car",
+    "credit_score": 710.1,
+    "repayment_history": 3,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00881",
+    "loan_purpose": "Business",
+    "credit_score": 658.8,
+    "repayment_history": 3,
+    "transaction_count": 209
+  },
+  {
+    "customer_id": "CR00882",
+    "loan_purpose": "Education",
+    "credit_score": 617.2,
+    "repayment_history": 2,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00883",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00884",
+    "loan_purpose": "Education",
+    "credit_score": 670.3,
+    "repayment_history": 2,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00885",
+    "loan_purpose": "Car",
+    "credit_score": 678.4,
+    "repayment_history": 1,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00886",
+    "loan_purpose": "Home",
+    "credit_score": 675.4,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00887",
+    "loan_purpose": "Business",
+    "credit_score": 711.3,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00888",
+    "loan_purpose": "Other",
+    "credit_score": 621.9,
+    "repayment_history": 2,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00889",
+    "loan_purpose": "Home",
+    "credit_score": 636.8,
+    "repayment_history": 2,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00890",
+    "loan_purpose": "Business",
+    "credit_score": 664.2,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00891",
+    "loan_purpose": "Other",
+    "credit_score": 600.4,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00892",
+    "loan_purpose": "Home",
+    "credit_score": 711.0,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00893",
+    "loan_purpose": "Car",
+    "credit_score": 596.3,
+    "repayment_history": 3,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00894",
+    "loan_purpose": "Home",
+    "credit_score": 635.5,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00895",
+    "loan_purpose": "Home",
+    "credit_score": 655.4,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00896",
+    "loan_purpose": "Business",
+    "credit_score": 603.0,
+    "repayment_history": 0,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00897",
+    "loan_purpose": "Car",
+    "credit_score": 664.3,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00898",
+    "loan_purpose": "Home",
+    "credit_score": 790.4,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00899",
+    "loan_purpose": "Home",
+    "credit_score": 712.6,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00900",
+    "loan_purpose": "Business",
+    "credit_score": 664.6,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00901",
+    "loan_purpose": "Home",
+    "credit_score": 676.5,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00902",
+    "loan_purpose": "Home",
+    "credit_score": 695.0,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00903",
+    "loan_purpose": "Home",
+    "credit_score": 733.5,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00904",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00905",
+    "loan_purpose": "Home",
+    "credit_score": 708.6,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00906",
+    "loan_purpose": "Business",
+    "credit_score": 692.5,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00907",
+    "loan_purpose": "Other",
+    "credit_score": 655.2,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00908",
+    "loan_purpose": "Home",
+    "credit_score": 718.7,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00909",
+    "loan_purpose": "Business",
+    "credit_score": 748.0,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00910",
+    "loan_purpose": "Other",
+    "credit_score": 674.1,
+    "repayment_history": 0,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00911",
+    "loan_purpose": "Home",
+    "credit_score": 720.7,
+    "repayment_history": 2,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00912",
+    "loan_purpose": "Business",
+    "credit_score": 746.3,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00913",
+    "loan_purpose": "Business",
+    "credit_score": 775.7,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00914",
+    "loan_purpose": "Other",
+    "credit_score": 689.5,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00915",
+    "loan_purpose": "Business",
+    "credit_score": 708.8,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00916",
+    "loan_purpose": "Home",
+    "credit_score": 646.6,
+    "repayment_history": 3,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00917",
+    "loan_purpose": "Business",
+    "credit_score": 653.0,
+    "repayment_history": 2,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00918",
+    "loan_purpose": "Home",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00919",
+    "loan_purpose": "Other",
+    "credit_score": 669.7,
+    "repayment_history": 2,
+    "transaction_count": 30
+  },
+  {
+    "customer_id": "CR00920",
+    "loan_purpose": "Car",
+    "credit_score": 737.6,
+    "repayment_history": 0,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00921",
+    "loan_purpose": "Education",
+    "credit_score": 684.5,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00922",
+    "loan_purpose": "Education",
+    "credit_score": 653.6,
+    "repayment_history": 0,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00923",
+    "loan_purpose": "Education",
+    "credit_score": 714.9,
+    "repayment_history": 6,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00924",
+    "loan_purpose": "Business",
+    "credit_score": 618.1,
+    "repayment_history": 2,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00925",
+    "loan_purpose": "Other",
+    "credit_score": 634.9,
+    "repayment_history": 2,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00926",
+    "loan_purpose": "Car",
+    "credit_score": 648.4,
+    "repayment_history": 1,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00927",
+    "loan_purpose": "Business",
+    "credit_score": 689.5,
+    "repayment_history": 1,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00928",
+    "loan_purpose": "Car",
+    "credit_score": 748.3,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00929",
+    "loan_purpose": "Other",
+    "credit_score": 750.4,
+    "repayment_history": 0,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00930",
+    "loan_purpose": "Business",
+    "credit_score": 661.3,
+    "repayment_history": 2,
+    "transaction_count": 55
+  },
+  {
+    "customer_id": "CR00931",
+    "loan_purpose": "Home",
+    "credit_score": 754.1,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00932",
+    "loan_purpose": "Home",
+    "credit_score": 790.3,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00933",
+    "loan_purpose": "Car",
+    "credit_score": 698.2,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00934",
+    "loan_purpose": "Other",
+    "credit_score": 651.5,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00935",
+    "loan_purpose": "Other",
+    "credit_score": 712.5,
+    "repayment_history": 3,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00936",
+    "loan_purpose": "Car",
+    "credit_score": 615.6,
+    "repayment_history": 0,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00937",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 2,
+    "transaction_count": 29
+  },
+  {
+    "customer_id": "CR00938",
+    "loan_purpose": "Business",
+    "credit_score": 747.6,
+    "repayment_history": 1,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00939",
+    "loan_purpose": "Home",
+    "credit_score": 586.4,
+    "repayment_history": 2,
+    "transaction_count": 53
+  },
+  {
+    "customer_id": "CR00940",
+    "loan_purpose": "Car",
+    "credit_score": 673.4,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00941",
+    "loan_purpose": "Business",
+    "credit_score": 710.5,
+    "repayment_history": 3,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00942",
+    "loan_purpose": "Business",
+    "credit_score": 650.2,
+    "repayment_history": 4,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00943",
+    "loan_purpose": "Business",
+    "credit_score": 495.7,
+    "repayment_history": 2,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00944",
+    "loan_purpose": "Education",
+    "credit_score": 658.4,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00945",
+    "loan_purpose": "Business",
+    "credit_score": 591.4,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00946",
+    "loan_purpose": "Home",
+    "credit_score": 708.5,
+    "repayment_history": 0,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00947",
+    "loan_purpose": "Other",
+    "credit_score": 710.4,
+    "repayment_history": 1,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00948",
+    "loan_purpose": "Car",
+    "credit_score": 805.1,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00949",
+    "loan_purpose": "Car",
+    "credit_score": 616.3,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00950",
+    "loan_purpose": "Business",
+    "credit_score": 673.8,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00951",
+    "loan_purpose": "Home",
+    "credit_score": 571.1,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00952",
+    "loan_purpose": "Education",
+    "credit_score": 564.9,
+    "repayment_history": 0,
+    "transaction_count": 38
+  },
+  {
+    "customer_id": "CR00953",
+    "loan_purpose": "Business",
+    "credit_score": 653.1,
+    "repayment_history": 2,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00954",
+    "loan_purpose": "Business",
+    "credit_score": 686.8,
+    "repayment_history": 0,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00955",
+    "loan_purpose": "Other",
+    "credit_score": 775.8,
+    "repayment_history": 2,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00956",
+    "loan_purpose": "Education",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00957",
+    "loan_purpose": "Home",
+    "credit_score": 724.0,
+    "repayment_history": 0,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00958",
+    "loan_purpose": "Education",
+    "credit_score": 685.0,
+    "repayment_history": 2,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00959",
+    "loan_purpose": "Education",
+    "credit_score": 850.0,
+    "repayment_history": 1,
+    "transaction_count": 36
+  },
+  {
+    "customer_id": "CR00960",
+    "loan_purpose": "Other",
+    "credit_score": 717.6,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00961",
+    "loan_purpose": "Education",
+    "credit_score": 467.4,
+    "repayment_history": 1,
+    "transaction_count": 32
+  },
+  {
+    "customer_id": "CR00962",
+    "loan_purpose": "Business",
+    "credit_score": 568.2,
+    "repayment_history": 1,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00963",
+    "loan_purpose": "Home",
+    "credit_score": 764.0,
+    "repayment_history": 0,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00964",
+    "loan_purpose": "Home",
+    "credit_score": 646.7,
+    "repayment_history": 2,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00965",
+    "loan_purpose": "Home",
+    "credit_score": 652.8,
+    "repayment_history": 3,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00966",
+    "loan_purpose": "Car",
+    "credit_score": 634.6,
+    "repayment_history": 1,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00967",
+    "loan_purpose": "Home",
+    "credit_score": 656.7,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00968",
+    "loan_purpose": "Business",
+    "credit_score": 682.0,
+    "repayment_history": 0,
+    "transaction_count": 45
+  },
+  {
+    "customer_id": "CR00969",
+    "loan_purpose": "Car",
+    "credit_score": null,
+    "repayment_history": 1,
+    "transaction_count": 52
+  },
+  {
+    "customer_id": "CR00970",
+    "loan_purpose": "Other",
+    "credit_score": 822.9,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00971",
+    "loan_purpose": "Other",
+    "credit_score": 622.6,
+    "repayment_history": 1,
+    "transaction_count": 29
+  },
+  {
+    "customer_id": "CR00972",
+    "loan_purpose": "Business",
+    "credit_score": 692.2,
+    "repayment_history": 0,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00973",
+    "loan_purpose": "Other",
+    "credit_score": 608.8,
+    "repayment_history": 0,
+    "transaction_count": 43
+  },
+  {
+    "customer_id": "CR00974",
+    "loan_purpose": "Other",
+    "credit_score": 644.4,
+    "repayment_history": 1,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00975",
+    "loan_purpose": "Home",
+    "credit_score": 613.9,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00976",
+    "loan_purpose": "Other",
+    "credit_score": null,
+    "repayment_history": 0,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00977",
+    "loan_purpose": "Car",
+    "credit_score": 695.1,
+    "repayment_history": 1,
+    "transaction_count": 34
+  },
+  {
+    "customer_id": "CR00978",
+    "loan_purpose": "Education",
+    "credit_score": 706.8,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00979",
+    "loan_purpose": "Business",
+    "credit_score": 634.5,
+    "repayment_history": 3,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00980",
+    "loan_purpose": "Education",
+    "credit_score": 782.4,
+    "repayment_history": 1,
+    "transaction_count": 50
+  },
+  {
+    "customer_id": "CR00981",
+    "loan_purpose": "Education",
+    "credit_score": 574.4,
+    "repayment_history": 0,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00982",
+    "loan_purpose": "Home",
+    "credit_score": 655.3,
+    "repayment_history": 1,
+    "transaction_count": 40
+  },
+  {
+    "customer_id": "CR00983",
+    "loan_purpose": "Home",
+    "credit_score": 646.1,
+    "repayment_history": 2,
+    "transaction_count": 46
+  },
+  {
+    "customer_id": "CR00984",
+    "loan_purpose": "Education",
+    "credit_score": 660.8,
+    "repayment_history": 0,
+    "transaction_count": 35
+  },
+  {
+    "customer_id": "CR00985",
+    "loan_purpose": "Other",
+    "credit_score": 681.8,
+    "repayment_history": 1,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR00986",
+    "loan_purpose": "Car",
+    "credit_score": 621.0,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00987",
+    "loan_purpose": "Car",
+    "credit_score": 645.5,
+    "repayment_history": 1,
+    "transaction_count": 51
+  },
+  {
+    "customer_id": "CR00988",
+    "loan_purpose": "Home",
+    "credit_score": 731.7,
+    "repayment_history": 0,
+    "transaction_count": 31
+  },
+  {
+    "customer_id": "CR00989",
+    "loan_purpose": "Home",
+    "credit_score": 699.2,
+    "repayment_history": 1,
+    "transaction_count": 42
+  },
+  {
+    "customer_id": "CR00990",
+    "loan_purpose": "Home",
+    "credit_score": 727.6,
+    "repayment_history": 1,
+    "transaction_count": 49
+  },
+  {
+    "customer_id": "CR00991",
+    "loan_purpose": "Other",
+    "credit_score": 593.5,
+    "repayment_history": 2,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00992",
+    "loan_purpose": "Car",
+    "credit_score": 694.6,
+    "repayment_history": 2,
+    "transaction_count": 33
+  },
+  {
+    "customer_id": "CR00993",
+    "loan_purpose": "Home",
+    "credit_score": 616.7,
+    "repayment_history": 1,
+    "transaction_count": 47
+  },
+  {
+    "customer_id": "CR00994",
+    "loan_purpose": "Home",
+    "credit_score": 665.6,
+    "repayment_history": 1,
+    "transaction_count": 44
+  },
+  {
+    "customer_id": "CR00995",
+    "loan_purpose": "Other",
+    "credit_score": 696.6,
+    "repayment_history": 1,
+    "transaction_count": 39
+  },
+  {
+    "customer_id": "CR00996",
+    "loan_purpose": "Business",
+    "credit_score": 726.6,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00997",
+    "loan_purpose": "Home",
+    "credit_score": 596.3,
+    "repayment_history": 2,
+    "transaction_count": 41
+  },
+  {
+    "customer_id": "CR00998",
+    "loan_purpose": "Car",
+    "credit_score": 634.6,
+    "repayment_history": 1,
+    "transaction_count": 37
+  },
+  {
+    "customer_id": "CR00999",
+    "loan_purpose": "Home",
+    "credit_score": 621.1,
+    "repayment_history": 2,
+    "transaction_count": 48
+  },
+  {
+    "customer_id": "CR01000",
+    "loan_purpose": "Home",
+    "credit_score": 721.7,
+    "repayment_history": 0,
+    "transaction_count": 51
+  }
+]
